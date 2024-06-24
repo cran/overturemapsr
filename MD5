@@ -1,0 +1,13 @@
+e19d1a2f4b451df60f30f0a83fed7a4b *DESCRIPTION
+2e8034948961439eae543a24fb19d808 *LICENSE
+b3edca367fb430f703405d428cb298ed *NAMESPACE
+66a43583692c33204a1f1ab5bec5cd25 *NEWS.md
+bd205687cde408e7b34b316abc757c9f *R/core.R
+1bcb32d357587e98c1ed6d0f923335a3 *R/utils.R
+ee749f424c9ea0a2d5ab18253326fe6f *README.md
+67e666ec0381929cf5bc9e78edbdac6b *man/dataset_path.Rd
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+614b05c2b5f041c066b9528384d30090 *man/get_all_overture_types.Rd
+ca6f4df5118e1b57d307558a21def66e *man/record_batch_reader.Rd
+5aa294dbe7722919c2bb4cb244df90a2 *tests/testthat.R
+2eed1dcdde1eabb1bf1e8d30b26519ae *tests/testthat/test-1-core.R
